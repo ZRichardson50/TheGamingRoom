@@ -1,1 +1,13 @@
 # TheGamingRoom
+
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? My Client ws the company The Gaming Room, this client wanted to create an game application called Draw it or Lose it! This meant that the company needed certain software requirements to help launch this application.
+
+What did you do particularly well in developing this documentation? I believe that I showed my strengths when it came to listing the development requirements of the diffrent Operating Systems that were avaliable to be used by The Gaming Room.
+
+What about the process of working through a design document did you find helpful when developing the code? I think that the most useful part of going through a design document is that it helps to mold how the code will work. It helps to take stress off of thinking exactly what is needed for my code and instead gives me a guide of how the code should be and work.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? I think that the main part I would like to go back and revise would be the Recommendations section. The reason being is that I feel that I didn't give the proper amount of research that I felt like I could do for this section in particular.
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing? I interpreted the user's needs by thinking of which system would be the most suitable to the users needs. If I didn't think of the user's needs when making these design choices I may have picked a system that was more difficult to use than the one that I decided upon. The one I picked is a widely used system and veery common to many users and is very user friendly.
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application? I would say at first I approached this project a bit hesitant because I've never had a chance to do this type of work or think in that mindset. So I would say I was quite nervous and didn't come at this project with as much bravery and determination as I normally would. I would say that the next time I take on software design I think I would try to space things out a bit better than I did this time around. I found myself trying to research alot of things in one day instead of focusing on one OS at a time. I think that by doing that I would give much better reccomendations to the client.
